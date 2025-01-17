@@ -1,4 +1,4 @@
-module github.com/nishanths/predeclared
+module github.com/gpassini/predeclared
 
 go 1.23
 
